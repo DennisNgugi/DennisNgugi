@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/DennisNgugi/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 ### Hi there, I'm Dennis Ngugi 👋
 
